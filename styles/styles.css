@@ -1,5 +1,5 @@
 :root {
-    background: yellow;
+    background: rgb(123, 113, 128);
   }
 
 nav {
@@ -43,7 +43,7 @@ aside {
     margin: 1em;
     border: 1px solid rgba(0, 0, 0, 0.2); /* 1️⃣ */
     padding: 1em;
-    background-color: #d89999;
+    background-color: #575b48;
     color: #756782;
     text-align: center;
 }
